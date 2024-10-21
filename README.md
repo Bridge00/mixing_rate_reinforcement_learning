@@ -1,8 +1,9 @@
 Repositories for the following papers:
-
--[Beyond exponentially fast mixing in average-reward reinforcement learning via multi-level Monte Carlo actor-critic](https://proceedings.mlr.press/v202/suttle23a.html)
--[CCE: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration](https://arxiv.org/abs/2306.06192)
--[Towards Global Optimality for Practical Average Reward Reinforcement Learning without Mixing Time Oracles](https://icml.cc/virtual/2024/poster/34664)
+<ul>
+<li>[Beyond exponentially fast mixing in average-reward reinforcement learning via multi-level Monte Carlo actor-critic](https://proceedings.mlr.press/v202/suttle23a.html)</li>
+<li>[CCE: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration](https://arxiv.org/abs/2306.06192)</li>
+<li>[Towards Global Optimality for Practical Average Reward Reinforcement Learning without Mixing Time Oracles](https://icml.cc/virtual/2024/poster/34664)</li>
+</ul>
 
 Collection of agents and environments for testing mixing rate and MLMC algorithms. Adapted from wessle/inforatio.
 
